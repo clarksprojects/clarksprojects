@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @clark-noeding</h1>
+<h1 align="center">Hi 👋, I'm @clarksprojects</h1>
 <p align="center">And I LOVE creating things</p>
 
 <p align="left"> <a href="https://twitter.com/clarknoeding" target="blank"><img src="https://img.shields.io/twitter/follow/clarknoeding?logo=twitter&style=for-the-badge" alt="clarknoeding" /></a> </p>
